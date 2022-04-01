@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C8CF07E4-9F5A-46ED-8AB5-A7CC74F06F33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webapi-starter/Startup.cs">
+    <Files>
+      <File FileName="webapi-starter/Program.cs" Line="21" Column="49" />
+      <File FileName="webapi-starter/Startup.cs" Line="18" Column="32" />
+      <File FileName="webapi-starter/Models/User.cs" Line="10" Column="1" />
+      <File FileName="webapi-starter/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="webapi-starter/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webapi-starter" expanded="True">
+            <Node name="webapi-starter" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.webapi-starter PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+</Properties>
